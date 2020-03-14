@@ -24,11 +24,11 @@ import AccountingPortfolioTable from '../components/accountBook/AccountingPortfo
 
 import BalanceSheet from '../components/reportForm/BalanceSheet.vue';  //资产负债表
 import IncomeCostStatement from '../components/reportForm/IncomeCostStatement.vue';  //收入费用表
-import StatementChangesAssets from '../components/reportForm/StatementChangesAssets.vue';  //净资产变动表
+import Statemen789ChangesAssets from '../components/reportForm/StatementChangesAssets.vue';  //净资产变动表
 import StatementCashFlow from '../components/reportForm/StatementCashFlow.vue';  //现金流量表
 import BudgetAndExpenditure from '../components/reportForm/BudgetAndExpenditure.vue';  //预算收入支出表
 import StatementChangeSbudget from '../components/reportForm/StatementChangeSbudget.vue'; //预算结转结余变动表
-import BudgetIncomeAllocation from '../components/reportForm/BudgetIncomeAllocation.vue';  //财政拨款预算收入支出表
+
 ffffffffffffffffffff
 //settleAccounts
 
